@@ -1,7 +1,20 @@
-### Hi there 👋
+# Oii, me chamo José Victor  👋
+Moro no Brasil, tenho 24 anos e sou desenvolvedor iniciante em Java Script, Flutter e SQL, estou aprentendo flutter com a facudade. Sempre estou interessado em aprender mais.
+
+### 🔭 Trabalhando atualmente...
+Trabalho no departamento de compras de uma empresa de vendas de ferramentas e maquinarios agricolas e industriais em Fernandópolis-SP. Lidero uma equipe muito bem humorada no meu departamento.
+
+### 🌱 Aprendendo atualmente...
+Atualmente estou aprendendo Flutter utilizando como Banco de Dados o FireBase na faculdade, mas estou em constante aprendizado. Me interesso bastante por tecnologias como Java Script(e sou louco para aprende Python). Esou em constante aprendizado no mundo do Pinguinzinho (Linux) também.
+
+
+### 📫 Como me encontrar...
+Você pode entrar em contato comigo das seguintes formas mágicas: 
+- E-mail: jose_bradachi@hotmail.com
+- LinkedIn: https://www.linkedin.com/in/jos%C3%A9-victor-bradachi-776211171/
 
 <!--
-**JVictoor/JVictoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**JVictoor/JVictoor/** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
